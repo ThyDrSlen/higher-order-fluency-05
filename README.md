@@ -56,10 +56,11 @@ const alumni = [
     ]
     ```
 
+
 3. Write a function named `allUseJavaScript` that takes an array of objects and returns a boolean if for every object, the language property is 'JavaScript'.
     
         ```jsx
         allUseJavaScript(alumni) // returns true
         ```
-
+every
 
